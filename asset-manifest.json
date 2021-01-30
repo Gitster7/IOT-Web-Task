@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IOT-Web-Task/static/css/main.fe540888.chunk.css",
+    "main.js": "/IOT-Web-Task/static/js/main.ff44c5b0.chunk.js",
+    "main.js.map": "/IOT-Web-Task/static/js/main.ff44c5b0.chunk.js.map",
+    "runtime-main.js": "/IOT-Web-Task/static/js/runtime-main.56bd04fd.js",
+    "runtime-main.js.map": "/IOT-Web-Task/static/js/runtime-main.56bd04fd.js.map",
+    "static/js/2.95052c4d.chunk.js": "/IOT-Web-Task/static/js/2.95052c4d.chunk.js",
+    "static/js/2.95052c4d.chunk.js.map": "/IOT-Web-Task/static/js/2.95052c4d.chunk.js.map",
+    "static/js/3.396b36b6.chunk.js": "/IOT-Web-Task/static/js/3.396b36b6.chunk.js",
+    "static/js/3.396b36b6.chunk.js.map": "/IOT-Web-Task/static/js/3.396b36b6.chunk.js.map",
+    "index.html": "/IOT-Web-Task/index.html",
+    "static/css/main.fe540888.chunk.css.map": "/IOT-Web-Task/static/css/main.fe540888.chunk.css.map",
+    "static/js/2.95052c4d.chunk.js.LICENSE.txt": "/IOT-Web-Task/static/js/2.95052c4d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/IOT-Web-Task/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56bd04fd.js",
+    "static/js/2.95052c4d.chunk.js",
+    "static/css/main.fe540888.chunk.css",
+    "static/js/main.ff44c5b0.chunk.js"
+  ]
+}
